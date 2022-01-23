@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\GitHubProjects\sfml-sort\Helper.h(11,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\GitHubProjects\sfml-sort\Helper.h(12,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  sfml-sort.vcxproj -> D:\GitHubProjects\sfml-sort\Debug\sfml-sort.exe
